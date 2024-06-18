@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.bg-custom {
+	background: #283553 !important;
+}
+
+.navbar .nav-item .nav-link {
+	font-size: 18px;
+	color: white;
+}
+
+.navbar .nav-item:hover .nav-link {
+	background-color: white;
+	color: black;
+	border-radius: 10px;
+}
+
+.text-custom {
+	color: blue;
+}
+
+.login-page {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top:10px;
+
+}
